@@ -1,4 +1,11 @@
-body {
-    color: white
-    background: black
+header {
+ padding: 20px;
+fonte-size: 32px;
+color:black (42, 122, 228);
+
+}
+
+
+section{
+    background-color:aliceblue;(184,156,213);
 }
